@@ -1,0 +1,366 @@
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\lib\idea_rt.jar=59217:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\2020\COS 710\Assignment 1\out\production\A1" main
+[*] Seed: 1599124147865
+[*] Seed i: 5741758278468178412
+[*] Seed i: -7652911939972295316
+[*] Seed i: 4260214948658705147
+[*] Seed i: -1536766935703404734
+[*] Seed i: 5127042493614257587
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 25
+Gen: 25
+Gen: 50
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 75
+Gen: 50
+Gen: 100
+Gen: 50
+Gen: 50
+Gen: 50
+Gen: 125
+Gen: 75
+Gen: 150
+Gen: 75
+Gen: 75
+Gen: 75
+Gen: 175
+Gen: 100
+Gen: 200
+Gen: 100
+Gen: 225
+Gen: 100
+Gen: 100
+Gen: 125
+Gen: 250
+Gen: 125
+Gen: 275
+Gen: 150
+Gen: 125
+Gen: 125
+[+] GP thread complete
+Gen: 150
+Gen: 175
+Gen: 150
+Gen: 150
+Gen: 175
+Gen: 200
+Gen: 175
+Gen: 175
+Gen: 200
+Gen: 225
+Gen: 200
+Gen: 200
+Gen: 250
+Gen: 225
+Gen: 225
+Gen: 225
+Gen: 275
+Gen: 250
+Gen: 250
+[+] GP thread complete
+Gen: 250
+Gen: 275
+Gen: 275
+Gen: 275
+[+] GP thread complete
+[+] GP thread complete
+[+] GP thread complete
+
+Process finished with exit code 0
+
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\lib\idea_rt.jar=59411:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\2020\COS 710\Assignment 1\out\production\A1" main
+[*] Seed: 1599127582908
+[*] Seed i: 8553815606927899477
+[*] Seed i: 6249840052082820428
+[*] Seed i: -1879840314109625433
+[*] Seed i: 3621691430877947466
+[*] Seed i: -2369670037027366967
+[*] Seed i: -9113784408326654299
+[*] Seed i: 2928367204423549175
+[*] Seed i: 6589296690821569565
+[*] Seed i: -107579801386684120
+[*] Seed i: 8284814940934502427
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 50
+Gen: 50
+Gen: 25
+Gen: 50
+Gen: 50
+Gen: 50
+Gen: 50
+Gen: 25
+Gen: 75
+Gen: 75
+Gen: 25
+Gen: 75
+Gen: 75
+Gen: 75
+Gen: 75
+Gen: 100
+Gen: 50
+Gen: 100
+Gen: 50
+Gen: 100
+Gen: 100
+Gen: 100
+Gen: 100
+Gen: 50
+Gen: 125
+Gen: 125
+Gen: 125
+Gen: 125
+Gen: 125
+Gen: 125
+Gen: 150
+Gen: 75
+Gen: 75
+Gen: 150
+Gen: 150
+Gen: 50
+Gen: 150
+Gen: 175
+Gen: 150
+Gen: 75
+Gen: 150
+Gen: 175
+Gen: 175
+Gen: 200
+Gen: 175
+Gen: 175
+Gen: 175
+Gen: 100
+Gen: 100
+Gen: 200
+Gen: 200
+Gen: 225
+Gen: 200
+Gen: 100
+Gen: 200
+Gen: 200
+Gen: 225
+Gen: 250
+Gen: 225
+Gen: 225
+Gen: 75
+Gen: 125
+Gen: 225
+Gen: 225
+Gen: 250
+Gen: 125
+Gen: 275
+Gen: 250
+Gen: 250
+Gen: 250
+Gen: 125
+[+] GP thread complete
+Gen: 275
+Gen: 275
+Gen: 250
+Gen: 275
+Gen: 150
+Gen: 150
+Gen: 275
+[+] GP thread complete
+Gen: 275
+[+] GP thread complete
+[+] GP thread complete
+Gen: 100
+[+] GP thread complete
+Gen: 150
+[+] GP thread complete
+Gen: 175
+Gen: 175
+Gen: 175
+Gen: 200
+Gen: 200
+Gen: 125
+Gen: 200
+Gen: 225
+Gen: 225
+Gen: 225
+Gen: 250
+Gen: 150
+Gen: 250
+Gen: 275
+Gen: 250
+Gen: 275
+Gen: 175
+[+] GP thread complete
+Gen: 275
+[+] GP thread complete
+[+] GP thread complete
+Gen: 200
+Gen: 225
+Gen: 250
+Gen: 275
+[+] GP thread complete
+
+Process finished with exit code 0
+
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\lib\idea_rt.jar=57616:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\2020\COS 710\Assignment 1\out\production\A1" main
+[*] Seed: 1599145772739
+[*] Seed i: -8170043286773757128
+[*] Seed i: 5994494815106043908
+[*] Seed i: 9106568074045878170
+[*] Seed i: -3160220572353770799
+[*] Seed i: -4882223455085693989
+[*] Seed i: 1105676157763679379
+[*] Seed i: 3308088271337018936
+[*] Seed i: -3848731624136026309
+[*] Seed i: -305091535351746556
+[*] Seed i: 8943330922028398037
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 50
+Gen: 50
+Gen: 50
+Gen: 50
+Gen: 25
+Gen: 50
+Gen: 75
+Gen: 75
+Gen: 75
+Gen: 25
+Gen: 75
+Gen: 25
+Gen: 25
+Gen: 100
+Gen: 75
+Gen: 25
+Gen: 100
+Gen: 100
+Gen: 100
+Gen: 50
+Gen: 125
+Gen: 100
+Gen: 125
+Gen: 125
+Gen: 125
+Gen: 150
+Gen: 125
+Gen: 150
+Gen: 150
+Gen: 150
+Gen: 175
+Gen: 75
+Gen: 50
+Gen: 50
+Gen: 175
+Gen: 150
+Gen: 175
+Gen: 175
+Gen: 50
+Gen: 200
+Gen: 50
+Gen: 200
+Gen: 175
+Gen: 200
+Gen: 200
+Gen: 225
+Gen: 225
+Gen: 100
+Gen: 250
+Gen: 200
+Gen: 225
+Gen: 225
+Gen: 250
+Gen: 75
+Gen: 275
+Gen: 250
+Gen: 225
+Gen: 250
+Gen: 275
+Gen: 75
+[+] GP thread complete
+Gen: 75
+Gen: 75
+Gen: 275
+Gen: 125
+Gen: 250
+Gen: 275
+[+] GP thread complete
+[+] GP thread complete
+[+] GP thread complete
+Gen: 275
+Gen: 100
+Gen: 150
+[+] GP thread complete
+Gen: 100
+Gen: 100
+Gen: 100
+Gen: 175
+Gen: 125
+Gen: 125
+Gen: 200
+Gen: 125
+Gen: 125
+Gen: 150
+Gen: 225
+Gen: 150
+Gen: 150
+Gen: 150
+Gen: 250
+Gen: 175
+Gen: 175
+Gen: 275
+Gen: 175
+Gen: 175
+Gen: 200
+[+] GP thread complete
+Gen: 200
+Gen: 200
+Gen: 200
+Gen: 225
+Gen: 225
+Gen: 250
+Gen: 225
+Gen: 225
+Gen: 250
+Gen: 275
+Gen: 250
+Gen: 250
+Gen: 275
+[+] GP thread complete
+Gen: 275
+Gen: 275
+[+] GP thread complete
+[+] GP thread complete
+[+] GP thread complete
+
+Process finished with exit code 0
+
+

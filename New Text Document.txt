@@ -1,0 +1,184 @@
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\lib\idea_rt.jar=53766:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\2020\COS 710\Assignment 1\out\production\A1" main
+[*] Seed: 1599367200870
+[*] Seed i: 2425491538001761731
+[*] Seed i: -2253700210665503805
+[*] Seed i: -7271452601274166005
+[*] Seed i: -453750724761927311
+[*] Seed i: 6843550120484649796
+[*] Seed i: 1344636979262595957
+[*] Seed i: 2698739064266822685
+[*] Seed i: 9036431005444405549
+[*] Seed i: 5146452380683675715
+[*] Seed i: 5572827593079268348
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 0
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 25
+Gen: 50
+Gen: 50
+Gen: 25
+Gen: 50
+Gen: 75
+Gen: 50
+Gen: 25
+Gen: 75
+Gen: 25
+Gen: 50
+Gen: 25
+Gen: 50
+Gen: 100
+Gen: 50
+Gen: 75
+Gen: 75
+Gen: 100
+Gen: 125
+Gen: 100
+Gen: 50
+Gen: 100
+Gen: 125
+Gen: 75
+Gen: 75
+Gen: 50
+Gen: 125
+Gen: 150
+Gen: 75
+Gen: 150
+Gen: 75
+Gen: 100
+Gen: 175
+Gen: 125
+Gen: 150
+Gen: 75
+Gen: 100
+Gen: 100
+Gen: 100
+Gen: 175
+Gen: 50
+Gen: 125
+Gen: 125
+Gen: 75
+Gen: 150
+Gen: 175
+Gen: 100
+Gen: 175
+Gen: 200
+Gen: 125
+Gen: 100
+Gen: 150
+Gen: 200
+Gen: 125
+Gen: 225
+Gen: 150
+Gen: 250
+Gen: 150
+Gen: 275
+Gen: 200
+Gen: 175
+Gen: 300
+Gen: 200
+Gen: 175
+Gen: 125
+Gen: 325
+Gen: 200
+Gen: 225
+Gen: 150
+Gen: 225
+Gen: 125
+Gen: 250
+Gen: 200
+Gen: 275
+Gen: 175
+Gen: 350
+Gen: 225
+Gen: 175
+Gen: 300
+Gen: 225
+Gen: 250
+Gen: 150
+Gen: 225
+Gen: 150
+Gen: 250
+Gen: 200
+Gen: 325
+Gen: 200
+Gen: 275
+Gen: 375
+Gen: 275
+Gen: 250
+Gen: 175
+Gen: 250
+Gen: 175
+Gen: 225
+Gen: 300
+Gen: 225
+Gen: 300
+Gen: 350
+Gen: 325
+Gen: 275
+Gen: 250
+Gen: 200
+Gen: 275
+Gen: 250
+Gen: 325
+Gen: 200
+Gen: 350
+Gen: 350
+[+] GP thread complete
+Gen: 275
+Gen: 375
+Gen: 275
+Gen: 300
+Gen: 225
+Gen: 375
+Gen: 300
+[+] GP thread complete
+Gen: 375
+Gen: 225
+Gen: 300
+Gen: 325
+[+] GP thread complete
+Gen: 300
+Gen: 250
+Gen: 250
+Gen: 350
+Gen: 325
+Gen: 325
+Gen: 325
+Gen: 275
+Gen: 375
+Gen: 275
+Gen: 350
+Gen: 350
+Gen: 300
+[+] GP thread complete
+[+] GP thread complete
+Gen: 350
+Gen: 300
+Gen: 375
+Gen: 325
+Gen: 375
+Gen: 325
+Gen: 350
+[+] GP thread complete
+Gen: 375
+[+] GP thread complete
+Gen: 375
+Gen: 350
+[+] GP thread complete
+[+] GP thread complete
+Gen: 375
+[+] GP thread complete
+
+Process finished with exit code 0
