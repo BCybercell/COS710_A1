@@ -111,7 +111,7 @@ public class GeneticProgram extends Thread{
                     sumAdjFit += adjustedFitness;
                     t.hitsRatio = correct;
                     t.mse = mse;
-                    if (correct == (total-(total*0.15))){
+                    if (correct >= (total-(total*0.15))){
                         System.out.println("Early stop");
                         break;
                     }

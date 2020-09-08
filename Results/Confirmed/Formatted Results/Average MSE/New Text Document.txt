@@ -1,1 +1,0 @@
-/1E10 , all results have been divided by 1E10
